@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi 👋
 
-<!--
-**maher-xs/maher-xs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **[Zrzur](https://zrzur.com)** (زرزور), an open-source chat platform for friends and communities: servers with text and voice channels, direct messages, screen sharing, events and Discover. It runs in the browser and as a desktop app for Windows, macOS and Linux.
 
-Here are some ideas to get you started:
+Zrzur is a volunteer project. I work on it in my free time, alongside school, and pay for the servers myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Zrzur on the web**
+
+- 🌐 Website: [zrzur.com](https://zrzur.com)
+- 💬 Open the app: [app.zrzur.com](https://app.zrzur.com)
+- 🧩 Source code: [github.com/zrzur](https://github.com/zrzur)
+- 🤖 Build a bot: [developers.zrzur.com](https://developers.zrzur.com)
+- ☕ Support the running costs: [ko-fi.com/zrzur](https://ko-fi.com/zrzur)
+
+**What Zrzur is built with**
+
+Rust · TypeScript · SolidJS · Electron · Docker
+
+<p dir="rtl" align="right">أطوّر زرزور، منصة دردشة مفتوحة المصدر للأصدقاء والمجتمعات. مشروع تطوعي أعمل عليه في وقت فراغي إلى جانب المدرسة.</p>
