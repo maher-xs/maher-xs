@@ -2,7 +2,7 @@
 
 I build **[Zrzur](https://zrzur.com)** (زرزور), an open-source chat platform for friends and communities: servers with text and voice channels, direct messages, screen sharing, events and Discover. It runs in the browser and as a desktop app for Windows, macOS and Linux.
 
-Zrzur is a volunteer project. I work on it in my free time, alongside school, and pay for the servers myself.
+Zrzur is a volunteer project. I work from 6 am to 5 pm, then I have school until 10 pm, and Zrzur gets the time that is left. I pay for the servers myself.
 
 **Zrzur on the web**
 
@@ -16,4 +16,4 @@ Zrzur is a volunteer project. I work on it in my free time, alongside school, an
 
 Rust · TypeScript · SolidJS · Electron · Docker
 
-<p dir="rtl" align="right">أطوّر زرزور، منصة دردشة مفتوحة المصدر للأصدقاء والمجتمعات. مشروع تطوعي أعمل عليه في وقت فراغي إلى جانب المدرسة.</p>
+<p dir="rtl" align="right">أطوّر زرزور، منصة دردشة مفتوحة المصدر للأصدقاء والمجتمعات. مشروع تطوعي: أعمل من السادسة صباحًا حتى الخامسة عصرًا، ثم المدرسة حتى العاشرة ليلًا، وأطوّر زرزور في الوقت الذي يبقى بعد ذلك.</p>
